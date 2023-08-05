@@ -1,0 +1,2 @@
+boot_a.img filter=lfs diff=lfs merge=lfs -text
+boot_b.img filter=lfs diff=lfs merge=lfs -text
